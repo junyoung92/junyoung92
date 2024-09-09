@@ -1,7 +1,9 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=b8cdff&fontColor=ffffff&height=220&section=header&text=Junyoung%20:-\)&desc=👩🏻‍💻%20iOS%20Developer&fontSize=48&fontAlignY=35&descAlignY=55&animation=fadeIn)
 
+
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junyoung92&layout=compact)
-
+-->
 
 
 <!--
